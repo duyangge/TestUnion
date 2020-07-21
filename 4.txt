@@ -1,0 +1,2 @@
+echo "hello,4.txt"
+hello,who am i
