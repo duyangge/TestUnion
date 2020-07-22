@@ -1,2 +1,1 @@
-echo 'hello,git'
-hello,git
+我是linux
