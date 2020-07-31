@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-echo 'hello,git'
-hello,git
-i am master
 我是linux
-
